@@ -1,0 +1,21 @@
+2024-10-04 17:18:57.713071-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONSULTAS" not found; SQL statement:
+select * from consultas [42102-224]
+2024-10-04 17:19:19.577412-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONSULTAS" not found; SQL statement:
+select * from consultas [42102-224]
+2024-10-04 17:19:27.425461-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]CONSERTOS"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CONSERTOS [42001-224]
+2024-10-04 17:19:35.365353-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COHNSERTOS" not found; SQL statement:
+select * from cohnsertos [42102-224]
+2024-10-04 17:19:36.387891-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COHNSERTOS" not found; SQL statement:
+select * from cohnsertos [42102-224]
+2024-10-04 17:19:36.571287-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COHNSERTOS" not found; SQL statement:
+select * from cohnsertos [42102-224]
+2024-10-04 17:19:36.771504-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COHNSERTOS" not found; SQL statement:
+select * from cohnsertos [42102-224]
